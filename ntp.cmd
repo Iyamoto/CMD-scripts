@@ -1,0 +1,2 @@
+rem net time /setsntp:"time-a.nist.gov time-b.nist.gov time-a.timefreq.bldrdoc.gov time-b.timefreq.bldrdoc.gov time-c.timefreq.bldrdoc.gov time.nist.gov time-nw.nist.gov"
+net time /setsntp:"192.168.1.1 192.168.1.2"

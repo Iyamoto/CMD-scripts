@@ -1,0 +1,1 @@
+for /f %%i in (list.txt) do psexec %%i w32tm /resync

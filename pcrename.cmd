@@ -1,0 +1,1 @@
+netdom renamecomputer \\pc /newname:newpc /userd:domen\user /passwordd:*
